@@ -1,2 +1,2 @@
 # CourseScheduler
-Created a course scheduler in Java and SQL
+Created a course scheduler in Java
